@@ -1,0 +1,150 @@
+country_id;continents;countries
+AUS;Oceania;Australia
+AUT;Europe;Austria
+BEL;Europe;Belgium
+CAN;North America;Canada
+CZE;Europe;Czechia
+DNK;Europe;Denmark
+FIN;Europe;Finland
+FRA;Europe;France
+DEU;Europe;Germany
+GRC;Europe;Greece
+HUN;Europe;Hungary
+ISL;Europe;Iceland
+IRL;Europe;Ireland
+ITA;Europe;Italy
+JPN;Asia;Japan
+KOR;Asia;Republic of Korea
+LUX;Europe;Luxembourg
+MEX;North America;Mexico
+NLD;Europe;Netherlands
+NZL;Oceania;New Zealand
+NOR;Europe;Norway
+POL;Europe;Poland
+PRT;Europe;Portugal
+SVK;Europe;Slovakia
+ESP;Europe;Spain
+SWE;Europe;Sweden
+CHE;Europe;Switzerland
+TUR;Asia;Turkey
+GBR;Europe;United Kingdom 
+USA;North America;United States of America
+OEU;Null;Null
+ALB;Europe;Albania
+DZA;Africa;Algeria
+ARG;South America;Argentina
+ARM;Asia;Armenia
+AZE;Asia;Azerbaijan
+BGD;Asia;Bangladesh
+BLR;Europe;Belarus
+BIH;Europe;Bosnia and Herzegovina
+BRA;South America;Brazil
+BRN;Asia;Brunei Darussalam
+BGR;Europe;Bulgaria
+KHM;Asia;Cambodia
+CHL;South America;Chile
+CHN;Asia;China
+COL;South America;Colombia
+HRV;Europe;Croatia
+CYP;Asia;Cyprus
+EGY;Africa;Egypt
+EST;Europe;Estonia
+ETH;Africa;Ethiopia
+GEO;Asia;Georgia
+GHA;Africa;Ghana
+HTI;North America;Haiti
+HKG;Asia;China Hong Kong 
+IND;Asia;India
+IDN;Asia;Indonesia
+IRN;Asia;Iran (Islamic Republic of)
+ISR;Asia;Israel
+KAZ;Asia;Kazakhstan
+LVA;Europe;Latvia
+LTU;Europe;Lithuania
+MKD;Europe;North Macedonia
+MYS;Asia;Malaysia
+MLT;Europe;Malta
+MDA;Europe;Republic of Moldova
+MOZ;Africa;Mozambique
+NGA;Africa;Nigeria
+PAK;Asia;Pakistan
+PRY;South America;Paraguay
+PER;South America;Peru
+PHL;Asia;Philippines
+ROU;Europe;Romania
+RUS;Europe;Russian Federation
+SAU;Asia;Saudi Arabia
+SGP;Asia;Singapore
+SVN;Europe;Slovenia
+ZAF;Africa;South Africa
+SDN;Africa;Sudan
+TWN;Null;Null
+TZA;Africa;United Republic of Tanzania
+THA;Asia;Thailand
+UKR;Europe;Ukraine
+ARE;Asia;United Arab Emirates
+URY;South America;Uruguay
+VNM;Asia;Viet Nam
+ZMB;Africa;Zambia
+WLD;Null;Null
+SRB;Europe;Serbia
+MNE;Europe;Montenegro
+EU28;Null;Null
+OECD;Null;Null
+G20;Null;Null
+AGO;Africa;Angola
+BHR;Asia;Bahrain
+BEN;Africa;Benin
+BOL;South America;Bolivia (Plurinational State of)
+BWA;Africa;Botswana
+CMR;Africa;Cameroon
+COG;Africa;Congo
+CRI;North America;Costa Rica
+CIV;Africa;Cote dIvoire
+CUB;North America;Cuba
+PRK;Asia;Democratic Peoples Republic of Korea
+COD;Africa;Democratic Republic of the Congo
+DOM;North America;Dominican Republic
+ECU;South America;Ecuador
+SLV;North America;El Salvador
+ERI;Africa;Eritrea
+GAB;Africa;Gabon
+GTM;North America;Guatemala
+HND;North America;Honduras
+IRQ;Asia;Iraq
+JAM;North America;Jamaica
+JOR;Asia;Jordan
+KEN;Africa;Kenya
+KWT;Asia;Kuwait
+KGZ;Asia;Kyrgyzstan
+LBN;Asia;Lebanon
+LBY;Africa;Libya
+MNG;Asia;Mongolia
+MAR;Africa;Morocco
+MMR;Asia;Myanmar
+NAM;Africa;Namibia
+NPL;Asia;Nepal
+NIC;North America;Nicaragua
+NER;Africa;Niger
+OMN;Asia;Oman
+PAN;North America;Panama
+QAT;Asia;Qatar
+SEN;Africa;Senegal
+LKA;Asia;Sri Lanka
+SYR;Asia;Syrian Arab Republic
+TJK;Asia;Tajikistan
+TGO;Africa;Togo
+TTO;North America;Trinidad and Tobago
+TUN;Africa;Tunisia
+TKM;Asia;Turkmenistan
+UZB;Asia;Uzbekistan
+VEN;South America;Venezuela (Bolivarian Republic of)
+YEM;Asia;Yemen
+ZWE;Africa;Zimbabwe
+LAO;Asia;Lao Peoples Democratic Republic
+EU27_2020;Null;Null
+GNQ;Africa;Equatorial Guinea
+MDG;Africa;Madagascar
+RWA;Africa;Rwanda
+SWZ;Africa;Eswatini
+UGA;Africa;Uganda

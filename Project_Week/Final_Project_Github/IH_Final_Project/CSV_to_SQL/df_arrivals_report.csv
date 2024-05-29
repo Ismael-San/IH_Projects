@@ -1,0 +1,132 @@
+,name,position,age,market_value,country_from,league_from,club_from,country_to,league_to,club_to,fee,loan
+0,Erling Haaland,Forward,21,150,Germany,Bundesliga,Borussia Dortmund,England,Premier League,Manchester City,60,False
+1,Antony,Forward,22,35,Netherlands,Eredivisie,Ajax Amsterdam,England,Premier League,Manchester United,95,False
+2,Wesley Fofana,Defender,21,40,England,Premier League,Leicester City,England,Premier League,Chelsea FC,80,False
+4,Casemiro,Midfielder,30,40,Spain,LaLiga,Real Madrid,England,Premier League,Manchester United,70,False
+5,Alexander Isak,Forward,22,30,Spain,LaLiga,Real Sociedad,England,Premier League,Newcastle United,70,False
+7,Raheem Sterling,Forward,27,70,England,Premier League,Manchester City,England,Premier League,Chelsea FC,56,False
+10,Marc Cucurella,Defender,24,28,England,Premier League,Brighton & Hove Albion,England,Premier League,Chelsea FC,65,False
+14,Richarlison,Forward,25,48,England,Premier League,Everton FC,England,Premier League,Tottenham Hotspur,58,False
+15,Lisandro Martínez,Defender,24,32,Netherlands,Eredivisie,Ajax Amsterdam,England,Premier League,Manchester United,57,False
+16,Darwin Núñez,Forward,23,55,Portugal,Liga Portugal,SL Benfica,England,Premier League,Liverpool FC,80,False
+18,Gabriel Jesus,Forward,25,50,England,Premier League,Manchester City,England,Premier League,Arsenal FC,52,False
+19,Cristian Romero,Defender,24,48,Italy,Serie A,Atalanta BC,England,Premier League,Tottenham Hotspur,50,False
+20,Kalvin Phillips,Midfielder,26,50,England,Premier League,Leeds United,England,Premier League,Manchester City,49,False
+24,Matheus Nunes,Midfielder,23,35,Portugal,Liga Portugal,Sporting CP,England,Premier League,Wolverhampton Wanderers,45,False
+27,Lucas Paquetá,Midfielder,25,35,France,Ligue 1,Olympique Lyon,England,Premier League,West Ham United,42,False
+32,Gonçalo Guedes,Forward,25,40,Spain,LaLiga,Valencia CF,England,Premier League,Wolverhampton Wanderers,32,False
+33,Diego Carlos,Defender,29,40,Spain,LaLiga,Sevilla FC,England,Premier League,Aston Villa,31,False
+35,Kalidou Koulibaly,Defender,31,35,Italy,Serie A,SSC Napoli,England,Premier League,Chelsea FC,38,False
+36,Sven Botman,Defender,22,30,France,Ligue 1,LOSC Lille,England,Premier League,Newcastle United,37,False
+37,Gianluca Scamacca,Forward,23,30,Italy,Serie A,US Sassuolo,England,Premier League,West Ham United,36,False
+38,Fábio Vieira,Midfielder,22,25,Portugal,Liga Portugal,FC Porto,England,Premier League,Arsenal FC,35,False
+39,Oleksandr Zinchenko,Defender,25,25,England,Premier League,Manchester City,England,Premier League,Arsenal FC,35,False
+40,Amadou Onana,Midfielder,20,10,France,Ligue 1,LOSC Lille,England,Premier League,Everton FC,35,False
+41,Nayef Aguerd,Defender,26,12,France,Ligue 1,Stade Rennais FC,England,Premier League,West Ham United,35,False
+44,Yves Bissouma,Midfielder,25,35,England,Premier League,Brighton & Hove Albion,England,Premier League,Tottenham Hotspur,29,False
+51,Brenden Aaronson,Midfielder,21,25,Austria,Bundesliga,Red Bull Salzburg,England,Premier League,Leeds United,32,False
+54,Manuel Akanji,Defender,27,30,Germany,Bundesliga,Borussia Dortmund,England,Premier League,Manchester City,17,False
+56,Renan Lodi,Defender,24,30,Spain,LaLiga,Atlético de Madrid,England,Premier League,Nottingham Forest,5,True
+59,Morgan Gibbs-White,Midfielder,22,11,England,Premier League,Wolverhampton Wanderers,England,Premier League,Nottingham Forest,29,False
+60,Leander Dendoncker,Midfielder,27,28,England,Premier League,Wolverhampton Wanderers,England,Premier League,Aston Villa,15,False
+66,Denis Zakaria,Midfielder,25,27,Italy,Serie A,Juventus FC,England,Premier League,Chelsea FC,3,True
+68,Luis Sinisterra,Forward,23,25,Netherlands,Eredivisie,Feyenoord Rotterdam,England,Premier League,Leeds United,25,False
+70,João Palhinha,Midfielder,26,25,Portugal,Liga Portugal,Sporting CP,England,Premier League,Fulham FC,20,False
+71,Sasa Kalajdzic,Forward,25,25,Germany,Bundesliga,VfB Stuttgart,England,Premier League,Wolverhampton Wanderers,18,False
+78,Conor Coady,Defender,29,25,England,Premier League,Wolverhampton Wanderers,England,Premier League,Everton FC,0,True
+79,Boubacar Kamara,Midfielder,22,25,France,Ligue 1,Olympique Marseille,England,Premier League,Aston Villa,0,False
+82,Nathan Collins,Defender,21,10,England,Championship,Burnley FC,England,Premier League,Wolverhampton Wanderers,24,False
+88,Thilo Kehrer,Defender,25,22,France,Ligue 1,Paris Saint-Germain,England,Premier League,West Ham United,12,False
+91,James Tarkowski,Defender,29,22,England,Championship,Burnley FC,England,Premier League,Everton FC,0,False
+93,Jan Bednarek,Defender,26,22,England,Premier League,Southampton FC,England,Premier League,Aston Villa,0,True
+95,Maxwel Cornet,Forward,25,15,England,Championship,Burnley FC,England,Premier League,West Ham United,20,False
+96,Taiwo Awoniyi,Forward,24,20,Germany,Bundesliga,1.FC Union Berlin,England,Premier League,Nottingham Forest,20,False
+101,Philippe Coutinho,Forward,30,20,Spain,LaLiga,FC Barcelona,England,Premier League,Aston Villa,20,False
+103,Neco Williams,Defender,21,8,England,Premier League,Liverpool FC,England,Premier League,Nottingham Forest,20,False
+104,Pervis Estupiñán,Defender,24,20,Spain,LaLiga,Villarreal CF,England,Premier League,Brighton & Hove Albion,17,False
+109,Remo Freuler,Midfielder,30,20,Italy,Serie A,Atalanta BC,England,Premier League,Nottingham Forest,9,False
+116,Christian Eriksen,Midfielder,30,20,England,Premier League,Brentford FC,England,Premier League,Manchester United,0,False
+121,Keane Lewis-Potter,Forward,21,12,England,Championship,Hull City,England,Premier League,Brentford FC,19,False
+123,Destiny Udogie,Defender,19,17,Italy,Serie A,Udinese Calcio,England,Premier League,Tottenham Hotspur,18,False
+124,Carney Chukwuemeka,Midfielder,18,6,England,Premier League,Aston Villa,England,Premier League,Chelsea FC,18,False
+125,Dwight McNeil,Forward,22,18,England,Championship,Burnley FC,England,Premier League,Everton FC,17,False
+126,Aaron Hickey,Defender,20,18,Italy,Serie A,Bologna FC 1909,England,Premier League,Brentford FC,16,False
+129,Neal Maupay,Forward,26,18,England,Premier League,Brighton & Hove Albion,England,Premier League,Everton FC,11,False
+130,Moussa Niakhaté,Defender,26,18,Germany,Bundesliga,1.FSV Mainz 05,England,Premier League,Nottingham Forest,10,False
+133,Arthur Melo,Midfielder,26,18,Italy,Serie A,Juventus FC,England,Premier League,Liverpool FC,4,True
+141,Jesse Lingard,Midfielder,29,18,England,Premier League,Manchester United,England,Premier League,Nottingham Forest,0,False
+142,Dean Henderson,Goalkeeper,25,18,England,Premier League,Manchester United,England,Premier League,Nottingham Forest,0,True
+143,Daniel James,Forward,24,18,England,Premier League,Leeds United,England,Premier League,Fulham FC,0,True
+145,Issa Diop,Defender,25,10,England,Premier League,West Ham United,England,Premier League,Fulham FC,17,False
+146,Matt Targett,Defender,26,17,England,Premier League,Aston Villa,England,Premier League,Newcastle United,17,False
+147,Tyler Adams,Midfielder,23,17,Germany,Bundesliga,RB Leipzig,England,Premier League,Leeds United,17,False
+148,Wout Faes,Defender,24,10,France,Ligue 1,Stade Reims,England,Premier League,Leicester City,17,False
+150,Tyrell Malacia,Defender,22,17,Netherlands,Eredivisie,Feyenoord Rotterdam,England,Premier League,Manchester United,15,False
+151,Marcos Senesi,Defender,25,17,Netherlands,Eredivisie,Feyenoord Rotterdam,England,Premier League,AFC Bournemouth,15,False
+163,Hee-chan Hwang,Forward,26,16,Germany,Bundesliga,RB Leipzig,England,Premier League,Wolverhampton Wanderers,16,False
+168,Duje Caleta-Car,Defender,25,16,France,Ligue 1,Olympique Marseille,England,Premier League,Southampton FC,8,False
+179,Cheick Doucouré,Midfielder,22,15,France,Ligue 1,RC Lens,England,Premier League,Crystal Palace,22,False
+181,Mikkel Damsgaard,Forward,22,15,Italy,Serie A,UC Sampdoria,England,Premier League,Brentford FC,15,False
+184,Rasmus Kristensen,Defender,24,15,Austria,Bundesliga,Red Bull Salzburg,England,Premier League,Leeds United,13,False
+185,Orel Mangala,Midfielder,24,15,Germany,Bundesliga,VfB Stuttgart,England,Premier League,Nottingham Forest,13,False
+187,Pierre-Emerick Aubameyang,Forward,33,15,Spain,LaLiga,FC Barcelona,England,Premier League,Chelsea FC,12,False
+188,Nick Pope,Goalkeeper,30,15,England,Championship,Burnley FC,England,Premier League,Newcastle United,11,False
+202,Emmanuel Dennis,Forward,24,14,England,Championship,Watford FC,England,Premier League,Nottingham Forest,14,False
+203,Djed Spence,Defender,21,8,England,Championship,Middlesbrough FC,England,Premier League,Tottenham Hotspur,14,False
+205,Emerson,Defender,28,14,England,Premier League,Chelsea FC,England,Premier League,West Ham United,15,False
+206,Gavin Bazunu,Goalkeeper,20,5,England,Premier League 2,Manchester City U21,England,Premier League,Southampton FC,14,False
+216,Sékou Mara,Forward,19,3,France,Ligue 2,FC Girondins Bordeaux,England,Premier League,Southampton FC,13,False
+217,Sergio Gómez,Defender,21,10,Belgium,Jupiler Pro League,RSC Anderlecht,England,Premier League,Manchester City,13,False
+225,Roméo Lavia,Midfielder,18,2,England,Premier League 2,Manchester City U21,England,Premier League,Southampton FC,12,False
+227,Marc Roca,Midfielder,25,7,Germany,Bundesliga,Bayern Munich,England,Premier League,Leeds United,12,False
+230,Chris Richards,Defender,22,7,Germany,Bundesliga,Bayern Munich,England,Premier League,Crystal Palace,12,False
+238,Billy Gilmour,Midfielder,21,12,England,Premier League,Chelsea FC,England,Premier League,Brighton & Hove Albion,8,False
+241,Fábio Carvalho,Midfielder,19,12,England,Premier League,Fulham FC,England,Premier League,Liverpool FC,5,False
+243,Idrissa Gueye,Midfielder,32,12,France,Ligue 1,Paris Saint-Germain,England,Premier League,Everton FC,4,False
+253,Clément Lenglet,Defender,27,12,Spain,LaLiga,FC Barcelona,England,Premier League,Tottenham Hotspur,0,True
+256,Loïc Badé,Defender,22,12,France,Ligue 1,Stade Rennais FC,England,Premier League,Nottingham Forest,0,True
+257,Sam Johnstone,Goalkeeper,29,12,England,Championship,West Bromwich Albion,England,Premier League,Crystal Palace,0,False
+259,Marcus Tavernier,Midfielder,23,4,England,Championship,Middlesbrough FC,England,Premier League,AFC Bournemouth,11,False
+260,Julio Enciso,Forward,18,11,Paraguay,Primera División Clausura,Club Libertad Asunción,England,Premier League,Brighton & Hove Albion,11,False
+265,Flynn Downes,Midfielder,23,2,Wales,Championship,Swansea City,England,Premier League,West Ham United,10,False
+267,James Garner,Midfielder,21,7,England,Premier League 2,Manchester United U21,England,Premier League,Everton FC,10,False
+268,Armel Bella-Kotchap,Defender,20,10,Germany,Bundesliga,VfL Bochum,England,Premier League,Southampton FC,11,False
+272,Giulian Biancone,Defender,22,4,France,Ligue 1,ESTAC Troyes,England,Premier League,Nottingham Forest,10,False
+278,Joe Aribo,Midfielder,25,10,Scotland,Premiership,Rangers FC,England,Premier League,Southampton FC,7,False
+283,Wilfried Gnonto,Forward,18,10,Switzerland,Super League,FC Zürich,England,Premier League,Leeds United,4,False
+299,Ivan Perisic,Midfielder,33,10,Italy,Serie A,Inter Milan,England,Premier League,Tottenham Hotspur,0,False
+301,Ainsley Maitland-Niles,Midfielder,25,10,England,Premier League,Arsenal FC,England,Premier League,Southampton FC,0,True
+312,Andreas Pereira,Midfielder,26,7,England,Premier League,Manchester United,England,Premier League,Fulham FC,9,False
+315,Lewis O'Brien,Midfielder,23,3,England,Championship,Huddersfield Town,England,Premier League,Nottingham Forest,9,False
+316,Alphonse Areola,Goalkeeper,29,8,France,Ligue 1,Paris Saint-Germain,England,Premier League,West Ham United,9,False
+317,Gabriel Slonina,Goalkeeper,18,3,United States,MLS,Chicago Fire FC,England,Premier League,Chelsea FC,9,False
+323,Kevin Mbabu,Defender,27,9,Germany,Bundesliga,VfL Wolfsburg,England,Premier League,Fulham FC,5,False
+324,Bernd Leno,Goalkeeper,30,9,England,Premier League,Arsenal FC,England,Premier League,Fulham FC,3,False
+340,Omar Richards,Defender,24,7,Germany,Bundesliga,Bayern Munich,England,Premier League,Nottingham Forest,8,False
+346,Simon Adingra,Forward,20,1,Denmark,Superligaen,FC Nordsjaelland,England,Premier League,Brighton & Hove Albion,8,False
+355,Carlos Vinícius,Forward,27,8,Portugal,Liga Portugal,SL Benfica,England,Premier League,Fulham FC,5,False
+404,Ui-jo Hwang,Forward,29,7,France,Ligue 2,FC Girondins Bordeaux,England,Premier League,Nottingham Forest,4,False
+407,Marquinhos,Forward,19,7,Brazil,Série A,São Paulo Futebol Clube,England,Premier League,Arsenal FC,3,False
+425,Jack Stephens,Defender,28,7,England,Premier League,Southampton FC,England,Premier League,AFC Bournemouth,0,True
+431,Thomas Strakosha,Goalkeeper,27,7,Italy,Serie A,SS Lazio,England,Premier League,Brentford FC,0,False
+450,Matt Turner,Goalkeeper,28,5,United States,MLS,New England Revolution,England,Premier League,Arsenal FC,6,False
+474,Willy Boly,Defender,31,6,England,Premier League,Wolverhampton Wanderers,England,Premier League,Nottingham Forest,2,False
+491,Stefan Ortega,Goalkeeper,29,6,Germany,2. Bundesliga,Arminia Bielefeld,England,Premier League,Manchester City,0,False
+552,Calvin Ramsay,Defender,18,5,Scotland,Premiership,Aberdeen FC,England,Premier League,Liverpool FC,4,False
+586,Ludwig Augustinsson,Defender,28,5,Spain,LaLiga,Sevilla FC,England,Premier League,Aston Villa,500,True
+590,Rúben Vinagre,Defender,23,5,Portugal,Liga Portugal,Sporting CP,England,Premier League,Everton FC,0,True
+606,Shane Duffy,Defender,30,5,England,Premier League,Brighton & Hove Albion,England,Premier League,Fulham FC,0,True
+614,Levi Colwill,Defender,19,5,England,Premier League 2,Chelsea FC U21,England,Premier League,Brighton & Hove Albion,0,True
+703,Martin Dúbravka,Goalkeeper,33,4,England,Premier League,Newcastle United,England,Premier League,Manchester United,2,True
+752,Cheikhou Kouyaté,Midfielder,32,4,England,Premier League,Crystal Palace,England,Premier League,Nottingham Forest,0,False
+754,Willian,Forward,34,4,Brazil,Série A,Sport Club Corinthians Paulista,England,Premier League,Fulham FC,0,False
+795,Robin Olsen,Goalkeeper,32,2,Italy,Serie A,AS Roma,England,Premier League,Aston Villa,3,False
+846,Joe Rothwell,Midfielder,27,3,England,Championship,Blackburn Rovers,England,Premier League,AFC Bournemouth,0,False
+978,Neto,Goalkeeper,33,3,Spain,LaLiga,FC Barcelona,England,Premier League,AFC Bournemouth,0,False
+1061,Harry Toffolo,Defender,26,2,England,Championship,Huddersfield Town,England,Premier League,Nottingham Forest,2,False
+1140,Ben Mee,Defender,32,2,England,Championship,Burnley FC,England,Premier League,Brentford FC,0,False
+1185,Josh Bowler,Forward,23,2,England,Championship,Blackpool FC,England,Premier League,Nottingham Forest,2,False
+1241,Boubacar Traoré,Midfielder,21,1,France,Ligue 2,FC Metz,England,Premier League,Wolverhampton Wanderers,2,True
+1315,Fraser Forster,Goalkeeper,34,2,England,Premier League,Southampton FC,England,Premier League,Tottenham Hotspur,0,False
+1654,Joel Robles,Goalkeeper,32,1,Spain,LaLiga,Real Betis Balompié,England,Premier League,Leeds United,0,False
+1693,Ryan Fredericks,Defender,29,1,England,Premier League,West Ham United,England,Premier League,AFC Bournemouth,0,False
